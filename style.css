@@ -1086,3 +1086,8 @@ blockquote, footer{
     background-color: rgba(165,147,99,.7);
     padding: 40px 40px 40px 40px;
 }
+
+li{
+    margin-top: 15px;
+    font-weight: 400;
+}
